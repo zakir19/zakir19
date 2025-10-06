@@ -6,14 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile%20views&color=0e75b6&style=flat" alt="zakir19" /> </p>
 
-- 🔭 I’m currently working on **different projects**
-
-- 🌱 I’m currently learning **react,node,express etc.**
-
-- 👯 I’m looking to collaborate on **frontend and backend work**
-
-- 💬 Ask me about **react,exress,js**
-
 - 📫 How to reach me **zakirhussainmomin786@gmail.com**
 
 - ⚡ Fun fact **I think i am funny and hardworking about my work**
