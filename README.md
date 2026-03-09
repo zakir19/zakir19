@@ -1,6 +1,5 @@
 <div align="center">
   <!-- Professional animated typing header (multi-line, smooth, customizable) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=650&lines=Hello!+I'm+Zakir+Husain;Full-Stack+Developer+%7C+India;React+%2F+Node.js+%2F+Three.js;Building+immersive+%26+scalable+web+experiences" alt="Typing SVG Header" />
 </div>
 
 <br />
@@ -68,7 +67,6 @@ Open to full-time opportunities, interesting collaborations, and open-source con
 - **Full-Stack Applications** → React + Node.js + modern databases
 - **Problem Solving** → Consistent practice & clean solutions on LeetCode
 
-*(Pin your top 4–6 repositories directly on your GitHub profile for maximum visibility!)*
 
 ---
 
