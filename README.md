@@ -66,15 +66,17 @@ Currently focused on **React**, **Node.js**, **modern JavaScript**, and explorin
 
 <!-- You can update these with your best repo links + descriptions -->
 
-- **[Project Name 1]** — Modern React + Node full-stack app  
-  `Tech:` React • Node.js • MongoDB  
-  [![GitHub stars](https://img.shields.io/github/stars/zakir19/project1?style=social)](https://github.com/zakir19/project1)
+- **[Actiq AI]** —  Full-stack AI app  
+  `Tech:` Next.js, React.js, TypeScript, Tailwind CSS, tRPC, 
+Neon PostgreSQL, LiveKit, Deepgram, Google Gemini API 
+  [![GitHub stars](https://github.com/zakir19/actiqai))
 
 - **[LeetCode Solutions]** — Clean, well-commented solutions  
   `Link:` https://leetcode.com/zakir_28
 
-- **[3D Portfolio Experiment]** — Interactive 3D web experience  
+- **[Portfolio]** — Interactive 3D web experience  
   `Tech:` Three.js • React Three Fiber
+  [![GitHub stars](https://zakirhusain-portfolio.vercel.app/)
 
 *(Pin your top 4–6 repositories on GitHub profile for better visibility!)*
 
