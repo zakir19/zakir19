@@ -1,100 +1,91 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Zakir+Husain;Full-Stack+Developer+from+India;Building+Scalable+Web+Apps+with+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=40&pause=700&color=F06292&center=true&vCenter=true&width=700&lines=Yo+yo+yo!+I'm+Zakir+Husain!;Frontend+%2B+Backend+Chaos+Creator;Code+goes+brrrrrrr+🚀💥;India+ka+React+Rockstar+😎" alt="Typing SVG - playful" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180" src="https://gifdb.com/images/high/excited-satoru-gojo-fingers-running-phdigitelhimbzds.webp" alt="Excited Gojo GIF" />
+  <img src="https://media.tenor.com/5sBrQeGHBfYAAAAC/gojo-satoru-gojo.gif" width="260" alt="Gojo running excited"/>
+  <img src="https://media.tenor.com/gI-8qCUEko8AAAAC/duck-dance.gif" width="140" alt="Dancing duck"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile+Views&color=ff69b4&style=for-the-badge&logo=ko-fi&logoColor=white" alt="profile views counter - pink"/>
+</div>
+
+<h2 align="center">✨ Hiii cuties & coders ✨</h2>
+
+<p align="center">
+  <b>Full-stack gremlin</b> from India who turns coffee into ✨ messy but beautiful ✨ web apps<br/>
+  I simp for <code>React</code>, bully <code>Node.js</code>, flirt with <code>Three.js</code>, and cry in <code>CSS</code> at 3 AM
+</p>
+
+<div align="center">
+  <img src="https://media.tenor.com/9PPlh9t3R0gAAAAC/typing-fast-kitten.gif" width="180"/>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile+Views&color=0e75b6&style=for-the-badge&logo=starship&labelColor=000000" alt="Profile views" />
+  <b>Currently:</b> building cool stuff • eating momos • pretending to understand TypeScript
 </div>
 
 ---
 
-### 🚀 About Me
-
-I'm a passionate **full-stack developer** from India with a love for creating clean, performant, and user-centric applications.  
-Currently focused on **React**, **Node.js**, **modern JavaScript**, and exploring **3D web experiences** with Three.js.
-
-- 📫 Reach me: **zakirhussainmomin786@gmail.com**
-- ⚡ Fun fact: I think I'm funny... but my code is serious 😄
-- 🌱 Currently learning: Advanced TypeScript & Next.js App Router
-- 💼 Open to: Full-time roles, freelance, collaborations
-
----
-
-### 🌐 Connect with Me
+### 🌈 Let's be internet friends !!!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zakir-husain-patel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/zakir-husain-patel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/zakir_28" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#F7A41D" alt="LeetCode" />
+  <a href="https://leetcode.com/zakir_28/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zakirhussainmomin786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,ts,python,c,mysql,mongodb,threejs,git,github,vscode&perline=7" alt="Skills Icons" />
-</p>
+### 🦄 My current vibe stack (2026 edition)
 
 <div align="center">
-  <table>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Others</th>
-    </tr>
-    <tr>
-      <td>HTML5 • CSS3 • JavaScript • React • Three.js</td>
-      <td>Node.js • Express • Python • MongoDB • MySQL</td>
-      <td>Git • GitHub • C • VS Code</td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakir19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Zakir's GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakir19&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,threejs,git,vscode&perline=8" alt="skills rainbow"/>
 </div>
 
 <br/>
 
+<p align="center">
+  <img src="https://media.tenor.com/6xQJ_0n0b0IAAAAC/cat-vibing.gif" width="48"/> 
+  <b>Frontend</b> → React + Next.js + way too much tailwind + 3D flexing<br/>
+  <img src="https://media.tenor.com/6xQJ_0n0b0IAAAAC/cat-vibing.gif" width="48"/> 
+  <b>Backend</b> → Node.js + Express + "it works on my machine"<br/>
+  <img src="https://media.tenor.com/6xQJ_0n0b0IAAAAC/cat-vibing.gif" width="48"/> 
+  <b>Fun</b> → Three.js + Python + making things spin for no reason
+</p>
+
+---
+
+### 🔥 Little chaos projects I'm proud of
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Simping%20For-React%20Three%20Fiber-pink?style=for-the-badge&logo=react&logoColor=white"/>
+  <br/><br/>
+  • 3D rotating meme gallery that shouldn't exist but does<br/>
+  • LeetCode solutions with ✨ extra comments ✨<br/>
+  • That one project where everything is neon and broken but cute
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir19&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+  <img src="https://media.tenor.com/w1HD_l0_-uIAAAAC/hamster-vibes.gif" width="160"/>
+  <img src="https://media.tenor.com/2vpeY7t3EZoAAAAC/hamster-eating.gif" width="160"/>
 </div>
 
 ---
 
-### 🔥 Featured Projects
-
-<!-- You can update these with your best repo links + descriptions -->
-
-- **[Project Name 1]** — Modern React + Node full-stack app  
-  `Tech:` React • Node.js • MongoDB  
-  [![GitHub stars](https://img.shields.io/github/stars/zakir19/project1?style=social)](https://github.com/zakir19/project1)
-
-- **[LeetCode Solutions]** — Clean, well-commented solutions  
-  `Link:` https://leetcode.com/zakir_28
-
-- **[3D Portfolio Experiment]** — Interactive 3D web experience  
-  `Tech:` Three.js • React Three Fiber
-
-*(Pin your top 4–6 repositories on GitHub profile for better visibility!)*
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=120&section=footer&text=Come+code+with+me+bestie!+💖&fontSize=32&fontAlignY=55&animation=twinkling" alt="venom capsule"/>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=30&fontAlignY=40" alt="Waving footer" />
+  <img src="https://media.tenor.com/0v5wA3P3v0YAAAAC/bye-bye-bye.gif" width="200"/>
+  <br/>
+  <sub>See ya in the code 👀✨</sub>
 </div>
