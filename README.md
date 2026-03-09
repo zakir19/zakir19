@@ -1,91 +1,82 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=40&pause=700&color=F06292&center=true&vCenter=true&width=700&lines=Yo+yo+yo!+I'm+Zakir+Husain!;Frontend+%2B+Backend+Chaos+Creator;Code+goes+brrrrrrr+🚀💥;India+ka+React+Rockstar+😎" alt="Typing SVG - playful" />
+  <!-- Professional animated typing header (multi-line, smooth, customizable) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=650&lines=Hello!+I'm+Zakir+Husain;Full-Stack+Developer+%7C+India;React+%2F+Node.js+%2F+Three.js;Building+immersive+%26+scalable+web+experiences" alt="Typing SVG Header" />
 </div>
 
-<br/>
+<br />
 
+<!-- Subtle animated waving capsule banner – gradient + animation -->
 <div align="center">
-  <img src="https://media.tenor.com/5sBrQeGHBfYAAAAC/gojo-satoru-gojo.gif" width="260" alt="Gojo running excited"/>
-  <img src="https://media.tenor.com/gI-8qCUEko8AAAAC/duck-dance.gif" width="140" alt="Dancing duck"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile+Views&color=ff69b4&style=for-the-badge&logo=ko-fi&logoColor=white" alt="profile views counter - pink"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Full-Stack+Developer+%26+Creative+Coder&fontSize=32&fontAlignY=55&animation=twinkling&fontColor=ffffff" alt="Waving Gradient Banner" />
 </div>
 
-<h2 align="center">✨ Hiii cuties & coders ✨</h2>
+<br />
 
-<p align="center">
-  <b>Full-stack gremlin</b> from India who turns coffee into ✨ messy but beautiful ✨ web apps<br/>
-  I simp for <code>React</code>, bully <code>Node.js</code>, flirt with <code>Three.js</code>, and cry in <code>CSS</code> at 3 AM
-</p>
-
+<!-- Quick profile views badge – professional style -->
 <div align="center">
-  <img src="https://media.tenor.com/9PPlh9t3R0gAAAAC/typing-fast-kitten.gif" width="180"/>
-  <br/><br/>
-  <b>Currently:</b> building cool stuff • eating momos • pretending to understand TypeScript
+  <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile+Views&color=00C4B4&style=flat-square&logo=google-chrome&logoColor=white" alt="Profile Views" />
 </div>
 
 ---
 
-### 🌈 Let's be internet friends !!!
+### 👋 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zakir-husain-patel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/zakir_28/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:zakirhussainmomin786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+Passionate **full-stack developer** from India crafting clean, performant, and visually engaging web applications.  
+Focused on modern JavaScript ecosystems, 3D experiences, and scalable backends.
+
+- 📫 **Email**: zakirhussainmomin786@gmail.com
+- 🔗 **LinkedIn**: [Zakir Husain Patel](https://www.linkedin.com/in/zakir-husain-patel/)
+- ⚙️ **LeetCode**: [zakir_28](https://www.leetcode.com/zakir_28)
+- 🌱 Currently deep-diving into **TypeScript**, **Next.js App Router**, and **React Three Fiber**
+
+Open to full-time opportunities, interesting collaborations, and open-source contributions.
 
 ---
 
-### 🦄 My current vibe stack (2026 edition)
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,threejs,git,vscode&perline=8" alt="skills rainbow"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,threejs,git,github,vscode&perline=8" alt="Tech Stack Icons" />
 </div>
 
-<br/>
+<br />
 
-<p align="center">
-  <img src="https://media.tenor.com/6xQJ_0n0b0IAAAAC/cat-vibing.gif" width="48"/> 
-  <b>Frontend</b> → React + Next.js + way too much tailwind + 3D flexing<br/>
-  <img src="https://media.tenor.com/6xQJ_0n0b0IAAAAC/cat-vibing.gif" width="48"/> 
-  <b>Backend</b> → Node.js + Express + "it works on my machine"<br/>
-  <img src="https://media.tenor.com/6xQJ_0n0b0IAAAAC/cat-vibing.gif" width="48"/> 
-  <b>Fun</b> → Three.js + Python + making things spin for no reason
-</p>
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <td>React • Next.js • TypeScript • Tailwind CSS • Three.js / React Three Fiber</td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+    <td>Node.js • Express • Python • REST / GraphQL</td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>MongoDB • MySQL</td>
+  </tr>
+  <tr>
+    <th>Tools</th>
+    <td>Git • GitHub • VS Code • Figma</td>
+  </tr>
+</table>
 
 ---
 
-### 🔥 Little chaos projects I'm proud of
+### 🌟 Featured Work & Activity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Simping%20For-React%20Three%20Fiber-pink?style=for-the-badge&logo=react&logoColor=white"/>
-  <br/><br/>
-  • 3D rotating meme gallery that shouldn't exist but does<br/>
-  • LeetCode solutions with ✨ extra comments ✨<br/>
-  • That one project where everything is neon and broken but cute
-</p>
+- **Interactive 3D Web Experiments** → Exploring immersive experiences with Three.js
+- **Full-Stack Applications** → React + Node.js + modern databases
+- **Problem Solving** → Consistent practice & clean solutions on LeetCode
 
-<div align="center">
-  <img src="https://media.tenor.com/w1HD_l0_-uIAAAAC/hamster-vibes.gif" width="160"/>
-  <img src="https://media.tenor.com/2vpeY7t3EZoAAAAC/hamster-eating.gif" width="160"/>
-</div>
+*(Pin your top 4–6 repositories directly on your GitHub profile for maximum visibility!)*
 
 ---
 
+<!-- Subtle animated footer wave – professional gradient style -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=120&section=footer&text=Come+code+with+me+bestie!+💖&fontSize=32&fontAlignY=55&animation=twinkling" alt="venom capsule"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=80&section=footer&text=Let's+build+something+amazing+together!&fontSize=24&fontAlignY=40&animation=twinkling" alt="Animated Footer Slice" />
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/0v5wA3P3v0YAAAAC/bye-bye-bye.gif" width="200"/>
-  <br/>
-  <sub>See ya in the code 👀✨</sub>
+  <sub>✨ Crafted with passion & clean code • 2026 ✨</sub>
 </div>
