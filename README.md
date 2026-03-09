@@ -1,39 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=650&lines=Hello!+I'm+Zakir+Husain;Full-Stack+Developer+%7C+India;React+%2F+Node.js+%2F+Three.js;Building+immersive+%26+scalable+web+experiences" alt="Typing SVG Header" />
+  <h1>hello i am zakirhusain</h1>
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Full-Stack+Developer+%26+Creative+Coder&fontSize=32&fontAlignY=55&animation=twinkling&fontColor=ffffff" alt="Waving Gradient Banner" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile+Views&color=00C4B4&style=flat-square&logo=google-chrome&logoColor=white" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile+Views&color=00C4B4&style=flat-square" alt="Profile views" />
 </div>
 
 ---
 
-### 👋 About Me
+### About Me
 
-Passionate **full-stack developer** from Ahmedabad, India, crafting clean, performant, and user-centric web applications.  
-Specialized in modern JavaScript/TypeScript ecosystems, real-time features, AI integrations, and 3D/interactive web experiences.
+I'm a passionate **full-stack developer** from **Ahmedabad, India**, focused on building clean, performant, and user-centric web applications.
+
+Currently working with **React**, **Node.js**, modern JavaScript/TypeScript, and exploring **3D web experiences** with Three.js.  
+Also building AI-powered apps and real-time features.
 
 - 📫 **Email**: zakirhussainmomin786@gmail.com
 - 🌐 **Portfolio**: [zakirhusain-portfolio.vercel.app](https://zakirhusain-portfolio.vercel.app/)
-- 🔗 **LinkedIn**: [Zakir Husain Patel](https://www.linkedin.com/in/zakir-husain-patel/)
-- ⚙️ **LeetCode**: [zakir_28](https://leetcode.com/zakir_28)
-- 🌱 Currently exploring: **Advanced TypeScript**, **Next.js**, **AI-powered apps**, **Three.js / React Three Fiber**
-- 💼 Open to: Full-time roles, freelance projects, open-source collaborations
+- ⚙️ **LeetCode**: [zakir_28](https://leetcode.com/zakir_28/)
+- 🌱 Currently learning: Advanced TypeScript, Next.js App Router, AI integrations
+- 💼 Open to: Full-time roles, freelance, collaborations
+
+Fun fact: I think I'm funny… but my code is serious 😄
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,express,python,mongodb,mysql,threejs,git,github,vscode,tailwind,postgres&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,threejs,git,github,vscode,tailwind,postgres&perline=8" alt="Tech Stack" />
 </div>
 
 <br />
@@ -41,11 +38,11 @@ Specialized in modern JavaScript/TypeScript ecosystems, real-time features, AI i
 <table align="center">
   <tr>
     <th>Frontend</th>
-    <td>React • Next.js • Vite • TypeScript • Tailwind CSS • Three.js / React Three Fiber</td>
+    <td>HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Three.js / React Three Fiber</td>
   </tr>
   <tr>
     <th>Backend</th>
-    <td>Node.js • Express • tRPC • REST APIs</td>
+    <td>Node.js • Express • tRPC • Python</td>
   </tr>
   <tr>
     <th>Databases & AI</th>
@@ -53,55 +50,43 @@ Specialized in modern JavaScript/TypeScript ecosystems, real-time features, AI i
   </tr>
   <tr>
     <th>Others</th>
-    <td>Git • GitHub • LiveKit • GSAP animations</td>
+    <td>Git • GitHub • LiveKit • GSAP</td>
   </tr>
 </table>
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
-Here are some of my active and relevant public repositories (based on recent updates and tech alignment):
+Some highlights from my work:
 
 - **[actiqai](https://github.com/zakir19/actiqai)**  
-  Full-stack AI-powered application  
-  `Tech:` Next.js • React • TypeScript • Tailwind CSS • tRPC • Neon PostgreSQL • LiveKit • Deepgram • Google Gemini API  
-  (Recent update: Dec 2025)
+  Full-stack AI application  
+  Tech: Next.js • React • TypeScript • Tailwind CSS • tRPC • Neon PostgreSQL • LiveKit • Deepgram • Google Gemini API
 
-- **[saas-app](https://github.com/zakir19/saas-app)**  
-  SaaS-style web application built with modern frontend stack  
-  `Tech:` React + Vite • JavaScript/TypeScript  
-  (Recent update: Dec 2025)
-
-- **[Ui-Infinity](https://github.com/zakir19/Ui-Infinity)**  
-  Advanced UI components / design system exploration  
-  `Tech:` TypeScript  
-  (MIT licensed • Recent update: Nov 2025)
+- **[Portfolio](https://zakirhusain-portfolio.vercel.app/)**  
+  Interactive 3D personal portfolio  
+  Tech: React • Three.js • React Three Fiber
 
 - **[threejs](https://github.com/zakir19/threejs)**  
-  Experiments and learning projects with Three.js for 3D web experiences  
-  `Tech:` JavaScript • Three.js  
-  (Aligns with interactive 3D portfolio work)
+  Three.js experiments and 3D web learning projects  
+  Tech: JavaScript • Three.js
 
-- **[chaintech-react](https://github.com/zakir19/chaintech-react)**  
-  React-based project (possibly from learning / freelance)  
-  `Tech:` JavaScript / React
+- **[saas-app](https://github.com/zakir19/saas-app)** (if active)  
+  Modern SaaS-style web app  
+  Tech: React + Vite • TypeScript/JavaScript
 
-- **[grok-imagine](https://github.com/zakir19/grok-imagine)**  
-  Creative / AI-inspired UI or tool  
-  `Tech:` CSS / Frontend focused
+- **[Ui-Infinity](https://github.com/zakir19/Ui-Infinity)**  
+  UI components and design exploration  
+  Tech: TypeScript
 
-*(To make these shine even more: go to your GitHub profile → click "Customize your pins" → pin 4–6 of your favorite repos like actiqai, saas-app, threejs, and your profile repo. They’ll appear prominently at the top!)*
+- LeetCode Solutions → Clean, well-commented problem-solving practice  
+  Profile: [leetcode.com/zakir_28](https://leetcode.com/zakir_28)
 
-Also check out my interactive portfolio:  
-→ **[Live Portfolio](https://zakirhusain-portfolio.vercel.app/)** (built with Three.js + React Three Fiber)
+*(Pro tip: Go to your GitHub profile → "Customize your pins" → pin your top 4–6 repos like actiqai, threejs, and the portfolio repo. They'll show as beautiful cards right at the top of your profile!)*
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=80&section=footer&text=Let's+build+something+amazing+together!&fontSize=24&fontAlignY=40&animation=twinkling" alt="Animated Footer Slice" />
-</div>
-
-<div align="center">
-  <sub>✨ Crafted with passion & clean code • 2026 ✨</sub>
+  <sub>✨ Thanks for visiting • Let's connect and build something great • 2026 ✨</sub>
 </div>
