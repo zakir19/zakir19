@@ -61,21 +61,6 @@ Currently focused on **React**, **Node.js**, **modern JavaScript**, and explorin
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakir19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Zakir's GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakir19&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir19&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-</div>
-
----
 
 ### 🔥 Featured Projects
 
