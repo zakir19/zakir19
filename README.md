@@ -83,7 +83,6 @@ Some highlights from my work:
 - LeetCode Solutions → Clean, well-commented problem-solving practice  
   Profile: [leetcode.com/zakir_28](https://leetcode.com/zakir_28)
 
-*(Pro tip: Go to your GitHub profile → "Customize your pins" → pin your top 4–6 repos like actiqai, threejs, and the portfolio repo. They'll show as beautiful cards right at the top of your profile!)*
 
 ---
 
