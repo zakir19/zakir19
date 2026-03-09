@@ -1,87 +1,107 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Zakir+Husain;Full-Stack+Developer+from+India;Building+Scalable+Web+Apps+with+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=650&lines=Hello!+I'm+Zakir+Husain;Full-Stack+Developer+%7C+India;React+%2F+Node.js+%2F+Three.js;Building+immersive+%26+scalable+web+experiences" alt="Typing SVG Header" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img height="180" src="https://gifdb.com/images/high/excited-satoru-gojo-fingers-running-phdigitelhimbzds.webp" alt="Excited Gojo GIF" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile+Views&color=0e75b6&style=for-the-badge&logo=starship&labelColor=000000" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Full-Stack+Developer+%26+Creative+Coder&fontSize=32&fontAlignY=55&animation=twinkling&fontColor=ffffff" alt="Waving Gradient Banner" />
 </div>
 
----
-
-### 🚀 About Me
-
-I'm a passionate **full-stack developer** from India with a love for creating clean, performant, and user-centric applications.  
-Currently focused on **React**, **Node.js**, **modern JavaScript**, and exploring **3D web experiences** with Three.js.
-
-- 📫 Reach me: **zakirhussainmomin786@gmail.com**
-- ⚡ Fun fact: I think I'm funny... but my code is serious 😄
-- 🌱 Currently learning: Advanced TypeScript & Next.js App Router
-- 💼 Open to: Full-time roles, freelance, collaborations
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zakir-husain-patel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/zakir_28" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#F7A41D" alt="LeetCode" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,ts,python,c,mysql,mongodb,threejs,git,github,vscode&perline=7" alt="Skills Icons" />
-</p>
+<br />
 
 <div align="center">
-  <table>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Others</th>
-    </tr>
-    <tr>
-      <td>HTML5 • CSS3 • JavaScript • React • Three.js</td>
-      <td>Node.js • Express • Python • MongoDB • MySQL</td>
-      <td>Git • GitHub • C • VS Code</td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=zakir19&label=Profile+Views&color=00C4B4&style=flat-square&logo=google-chrome&logoColor=white" alt="Profile Views" />
 </div>
 
 ---
 
+### 👋 About Me
+
+Passionate **full-stack developer** from Ahmedabad, India, crafting clean, performant, and user-centric web applications.  
+Specialized in modern JavaScript/TypeScript ecosystems, real-time features, AI integrations, and 3D/interactive web experiences.
+
+- 📫 **Email**: zakirhussainmomin786@gmail.com
+- 🌐 **Portfolio**: [zakirhusain-portfolio.vercel.app](https://zakirhusain-portfolio.vercel.app/)
+- 🔗 **LinkedIn**: [Zakir Husain Patel](https://www.linkedin.com/in/zakir-husain-patel/)
+- ⚙️ **LeetCode**: [zakir_28](https://leetcode.com/zakir_28)
+- 🌱 Currently exploring: **Advanced TypeScript**, **Next.js**, **AI-powered apps**, **Three.js / React Three Fiber**
+- 💼 Open to: Full-time roles, freelance projects, open-source collaborations
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,express,python,mongodb,mysql,threejs,git,github,vscode,tailwind,postgres&perline=8" alt="Tech Stack Icons" />
+</div>
+
+<br />
+
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <td>React • Next.js • Vite • TypeScript • Tailwind CSS • Three.js / React Three Fiber</td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+    <td>Node.js • Express • tRPC • REST APIs</td>
+  </tr>
+  <tr>
+    <th>Databases & AI</th>
+    <td>PostgreSQL (Neon) • MongoDB • MySQL • Google Gemini API • Deepgram</td>
+  </tr>
+  <tr>
+    <th>Others</th>
+    <td>Git • GitHub • LiveKit • GSAP animations</td>
+  </tr>
+</table>
+
+---
 
 ### 🔥 Featured Projects
 
-<!-- You can update these with your best repo links + descriptions -->
+Here are some of my active and relevant public repositories (based on recent updates and tech alignment):
 
-- **[Actiq AI]** —  Full-stack AI app  
-  `Tech:` Next.js, React.js, TypeScript, Tailwind CSS, tRPC, 
-Neon PostgreSQL, LiveKit, Deepgram, Google Gemini API 
-  [![GitHub stars](https://github.com/zakir19/actiqai))
+- **[actiqai](https://github.com/zakir19/actiqai)**  
+  Full-stack AI-powered application  
+  `Tech:` Next.js • React • TypeScript • Tailwind CSS • tRPC • Neon PostgreSQL • LiveKit • Deepgram • Google Gemini API  
+  (Recent update: Dec 2025)
 
-- **[LeetCode Solutions]** — Clean, well-commented solutions  
-  `Link:` https://leetcode.com/zakir_28
+- **[saas-app](https://github.com/zakir19/saas-app)**  
+  SaaS-style web application built with modern frontend stack  
+  `Tech:` React + Vite • JavaScript/TypeScript  
+  (Recent update: Dec 2025)
 
-- **[Portfolio]** — Interactive 3D web experience  
-  `Tech:` Three.js • React Three Fiber
-  [![GitHub stars](https://zakirhusain-portfolio.vercel.app/)
+- **[Ui-Infinity](https://github.com/zakir19/Ui-Infinity)**  
+  Advanced UI components / design system exploration  
+  `Tech:` TypeScript  
+  (MIT licensed • Recent update: Nov 2025)
 
-*(Pin your top 4–6 repositories on GitHub profile for better visibility!)*
+- **[threejs](https://github.com/zakir19/threejs)**  
+  Experiments and learning projects with Three.js for 3D web experiences  
+  `Tech:` JavaScript • Three.js  
+  (Aligns with interactive 3D portfolio work)
+
+- **[chaintech-react](https://github.com/zakir19/chaintech-react)**  
+  React-based project (possibly from learning / freelance)  
+  `Tech:` JavaScript / React
+
+- **[grok-imagine](https://github.com/zakir19/grok-imagine)**  
+  Creative / AI-inspired UI or tool  
+  `Tech:` CSS / Frontend focused
+
+*(To make these shine even more: go to your GitHub profile → click "Customize your pins" → pin 4–6 of your favorite repos like actiqai, saas-app, threejs, and your profile repo. They’ll appear prominently at the top!)*
+
+Also check out my interactive portfolio:  
+→ **[Live Portfolio](https://zakirhusain-portfolio.vercel.app/)** (built with Three.js + React Three Fiber)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=30&fontAlignY=40" alt="Waving footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=80&section=footer&text=Let's+build+something+amazing+together!&fontSize=24&fontAlignY=40&animation=twinkling" alt="Animated Footer Slice" />
+</div>
+
+<div align="center">
+  <sub>✨ Crafted with passion & clean code • 2026 ✨</sub>
 </div>
