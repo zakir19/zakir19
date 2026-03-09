@@ -14,13 +14,9 @@
 
 I'm a passionate **full-stack developer** from **Ahmedabad, India**, focused on building clean, performant, and user-centric web applications.
 
-Currently working with **React**, **Node.js**, modern JavaScript/TypeScript, and exploring **3D web experiences** with Three.js.  
-Also building AI-powered apps and real-time features.
-
 - 📫 **Email**: zakirhussainmomin786@gmail.com
 - 🌐 **Portfolio**: [zakirhusain-portfolio.vercel.app](https://zakirhusain-portfolio.vercel.app/)
 - ⚙️ **LeetCode**: [zakir_28](https://leetcode.com/zakir_28/)
-- 🌱 Currently learning: Advanced TypeScript, Next.js App Router, AI integrations
 - 💼 Open to: Full-time roles, freelance, collaborations
 
 Fun fact: I think I'm funny… but my code is serious 😄
